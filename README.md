@@ -33,4 +33,4 @@
 
 Ссылка на dashboard [http://zabbix.systemctl.su/d/qACBwfDGk/etalondashboard?orgId=1&refresh=10s&from=1600359461488&to=1600360361488](http://zabbix.systemctl.su/d/qACBwfDGk/etalondashboard?orgId=1&refresh=10s&from=1600359461488&to=1600360361488)
 
-Настроенный dashboard сохранил в json файл [](dashboard.json) на случай если нужно восстановить или создать копию.
+Настроенный dashboard сохранил в json файл [dashboard.json](dashboard.json) на случай если нужно восстановить или создать копию.
