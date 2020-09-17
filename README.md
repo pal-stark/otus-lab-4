@@ -27,7 +27,7 @@
 11. Сделал snapshot на момент срабатывания триггера
 [http://zabbix.systemctl.su/dashboard/snapshot/ZyANRfM1eulLWUYLkR14Z1PYvxVEJ3CP](http://zabbix.systemctl.su/dashboard/snapshot/ZyANRfM1eulLWUYLkR14Z1PYvxVEJ3CP)
 
-Скриншот из telegram
+# Скриншот из telegram
 ![](result/Screenshot_41.png)
 
 
