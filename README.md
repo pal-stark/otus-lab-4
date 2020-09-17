@@ -23,7 +23,7 @@
 7. Подключил свой источник данных prometheus под именем Etalon.
 8. Сделал в своём dashboard 4 панельки. 2 из стандартных экспортеров, 2 своих.
 9. Для одной из метрик настроил treshhold на уровне 75 (метрика рандомна от 0 до 100)
-10. Настроил канал telegram для отправки уведомлений PvsZabbixMonitorBot
+10. Настроил канал telegram PVS_ZBX_Monitor для отправки уведомлений
 11. Сделал snapshot на момент срабатывания триггера
 [http://zabbix.systemctl.su/dashboard/snapshot/ZyANRfM1eulLWUYLkR14Z1PYvxVEJ3CP](http://zabbix.systemctl.su/dashboard/snapshot/ZyANRfM1eulLWUYLkR14Z1PYvxVEJ3CP)
 
